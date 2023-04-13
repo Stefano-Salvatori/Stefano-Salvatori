@@ -15,7 +15,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefano-salvatori&exclude_repo=FitMi&show_icons=true&locale=en&layout=compact&langs_count=20" alt="stefano-salvatori" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefano-salvatori&exclude_repo=FitMi&show_icons=true&locale=en&layout=compact&langs_count=20&hide_progress=true" alt="stefano-salvatori" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefano-salvatori&show_icons=true&locale=en" alt="stefano-salvatori" /></p>
 
